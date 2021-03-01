@@ -63,7 +63,7 @@ Tableau link:  https://public.tableau.com/profile/flora8857#!/vizhome/Module14Ch
 
 No challenges were encountered during the analysis.
 
-The results of converting the 'Tripduration' column datatype to a datetime datatype are held within a separate column, 'Trip Duration', to support the various visualizations against the two different trip duration datatypes.
+The results of converting the 'Tripduration' column datatype to a datetime datatype are held within a separate column, 'Trip Duration', to support the various visualizations against the two different trip duration datatypes.  The updated csv file including the new 'Trip Duration' datetime column has been uploaded using git lfs.
 
 
 ## Summary
